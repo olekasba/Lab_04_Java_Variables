@@ -55,6 +55,5 @@ public class Main {
         double shoeSize = 8.5;
         int birthMonth = 11;
 
-
     }
 }

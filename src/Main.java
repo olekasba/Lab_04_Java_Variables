@@ -54,7 +54,6 @@ public class Main {
         int favNumber = 13;
         double shoeSize = 8.5;
         int birthMonth = 11;
-        String fullName = "Brandon Olekas";
 
 
 

@@ -56,6 +56,5 @@ public class Main {
         int birthMonth = 11;
 
 
-
     }
 }
